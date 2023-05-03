@@ -1,7 +1,7 @@
 # Privacy Policy
 
 
-Toyrim Games provides this Privacy Policy to explain how it stores and uses the information connection with Toyrim's software.
+Toyrim provides this Privacy Policy to explain how it stores and uses the information connection with Toyrim's software.
 Toyrim respects the privacy of their users and is committed their information. You have a right to know our practices regarding the information we may collect and use when you use our services.
 
 ## 1. The types of information we may collect
